@@ -1,13 +1,2 @@
-1. cambarieri-8763-78
-
-2. 
-git status
-En la rama master
-
-No hay commits todavía
-
-Cambios a ser confirmados:
-  (usa "git rm --cached <archivo>..." para sacar del área de stage)
-	nuevos archivos: index.html
-
-3. el directorio de trabajo es un espacio local de la computadora donde se crean y modifican archivos de un proyecto. En cambio stagging area es el espacio intermedio donde se seleccionan archivos nuevos o modificados antes de ser guardados en un commit del repositorio git. 
+1. La imágen utilizada en acercade.html tiene por nombre "foto_matias.jpg", y su atributo alt es "Foto de Matías"
+2. La semántica en HTML resulta fundamental porque le da significado a la estructura de la página, de manera que los lectores de pantalla, los motores de búsqueda y los propios desarrolladores puedan identificar los elementos de la página correctamente. Si se optara por utilizar etiquetas genéricas como <div> para estructurar toda una página, sería mucho más dificil comprender las distintas secciones, sus funciones y diferenciar las partes que la conforman.
